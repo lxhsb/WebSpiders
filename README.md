@@ -1,3 +1,2 @@
 # WebSpiders
-learning web spiders by using python 
-I'd like to share my code here!
+2017 02 24 最近找个时间重新完善一下1024的爬虫，填坑，加上多线程
